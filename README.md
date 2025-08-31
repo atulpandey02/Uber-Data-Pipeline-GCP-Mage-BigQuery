@@ -203,12 +203,11 @@ Contributions welcome! Focus areas include:
 
 ---
 ## Conclusion
-- This project demonstrates end-to-end data engineering capabilities through the implementation of a dimensional data warehouse for transportation analytics. The pipeline successfully transforms raw NYC trip data into a star schema optimized for business intelligence, showcasing proficiency in modern orchestration tools, cloud architecture, and analytical data modeling. The modular design using Mage AI enables easy maintenance and extensibility for additional data sources or advanced analytics requirements.
-
-- The implementation reflects practical data engineering skills including API integration, dimensional modeling, cloud service orchestration, and performance optimization. The resulting analytics-ready dataset supports complex business queries for revenue analysis, operational planning, and customer insights, providing a solid foundation for data-driven decision making in transportation and logistics domains.
+This project demonstrates end-to-end data engineering capabilities through implementing a dimensional data warehouse that transforms raw NYC trip data into a star schema optimized for business intelligence. The pipeline showcases proficiency in modern orchestration tools, cloud architecture, dimensional modeling, and performance optimization, while the modular Mage AI design enables easy maintenance and extensibility for additional data sources or advanced analytics requirements, providing a solid foundation for data-driven decision making in transportation and logistics domains.
   
 ---
 
 *Built with Mage AI and Google Cloud Platform*
+
 
 
