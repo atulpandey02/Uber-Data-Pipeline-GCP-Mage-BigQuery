@@ -1,4 +1,5 @@
 #  Uber Data Engineering Pipeline
+An end-to-end Uber data pipeline on GCP, transforming 100K+ trips into analytics-ready insights with Mage, BigQuery, and Looker.  
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Mage AI](https://img.shields.io/badge/Mage%20AI-6366F1?style=for-the-badge&logo=magic&logoColor=white)
@@ -208,6 +209,7 @@ This project demonstrates end-to-end data engineering capabilities through imple
 ---
 
 *Built with Mage AI and Google Cloud Platform*
+
 
 
 
