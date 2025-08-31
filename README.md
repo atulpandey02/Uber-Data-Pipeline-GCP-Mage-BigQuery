@@ -1,4 +1,4 @@
-# 🚕 Uber Data Engineering Pipeline
+#  Uber Data Engineering Pipeline
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Mage AI](https://img.shields.io/badge/Mage%20AI-6366F1?style=for-the-badge&logo=magic&logoColor=white)
@@ -204,3 +204,4 @@ Contributions welcome! Focus areas include:
 ---
 
 *Built with Mage AI and Google Cloud Platform*
+
