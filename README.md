@@ -5,6 +5,13 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Key Highlights
+- **End-to-End Pipeline** - Complete ETL workflow from raw CSV to analytics-ready BigQuery tables  
+- **Star Schema Design** - Dimensional modeling with 1 fact table and 7 optimized dimension tables  
+- **100K+ Trip Records** - Large-scale NYC Uber dataset processing and transformation  
+- **Mage AI Orchestration** - Modern visual pipeline builder with Python-based transformations  
+- **Cloud-Native Architecture** - Google Cloud Storage, BigQuery, and Looker Studio integration
+
 ## Overview
 This project implements a data engineering pipeline that processes NYC Uber trip records using dimensional modeling and cloud-native tools. The pipeline transforms 100,000+ trip records into an analytics-ready star schema using Mage AI orchestration on Google Cloud Platform.
 
@@ -126,7 +133,7 @@ The analytics-ready data model enables:
 
 ### Setup Instructions
 
-1. **Environment Setup** (from `commands/commands.txt`):
+1. **Environment Setup** (from `commands.txt`):
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install python3-distutils python3-apt wget -y
@@ -152,7 +159,6 @@ mage start uber_data_pipeline
 uber-data-pipeline/
 ├── README.md                      # Project documentation
 ├── commands/                      # Setup commands
-│   ├── command.txt               # Individual commands
 │   └── commands.txt              # Complete installation script
 ├── data/                         # Data storage
 │   └── uber_data.csv            # NYC trip dataset
@@ -204,4 +210,5 @@ Contributions welcome! Focus areas include:
 ---
 
 *Built with Mage AI and Google Cloud Platform*
+
 
